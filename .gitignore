@@ -1,0 +1,2 @@
+wine-reviews-scores/*.csv
+wine-reviews-scores/**/*.png
